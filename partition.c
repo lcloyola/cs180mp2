@@ -10,6 +10,7 @@
 #define IMG_DIMENSION 10304
 #define NN_OUTPUT_SIZE 40
 
+
 typedef struct _PGMData {
     int row;
     int col;
